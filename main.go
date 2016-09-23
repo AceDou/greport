@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "github.com\niugo\greport/routers"
+	_ "github.com/niugo/greport/routers"
 
 	"github.com/astaxie/beego"
 )

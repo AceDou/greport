@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"github.com\niugo\greport/controllers"
+	"github.com/niugo/greport/controllers"
 
 	"github.com/astaxie/beego"
 )
